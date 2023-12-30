@@ -1,0 +1,46 @@
+.box{
+    width: 700px;
+    margin: auto;
+    background-color: rgba(8, 8, 128, 0.575);
+    border: 5px inset purple;
+    padding: 20px;
+
+    
+}
+body{
+    background-image: url("https://uanews.co.ua/media/news/preview/2022/04/09/Знімок_екрана_2022-04-09_о_18.22.44.png") ;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.menu{
+    background-color:black;
+    line-height: 30px;
+    text-align: right;
+}
+.menu a{
+    background-color: blueviolet;
+    font-size: 20px;
+    color: cadetblue;
+    padding: 5px 10px;
+
+}
+.block{
+    border: 5px double blueviolet;
+    margin: 20px 0;
+    padding: 10px;
+
+}
+.link{
+    text-align: right;
+    
+}
+.link a{
+    color: crimson;
+}
+img{
+    width: 100px ;
+    float: left;
+    margin-right: 10px;
+}
+
